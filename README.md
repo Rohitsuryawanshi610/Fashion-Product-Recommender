@@ -16,7 +16,7 @@ Deployment: Package used to create web app streamlit
 Data Acquisition
 Here is the Kaggle dataset URL:-
 
-Fashion Product Images Dataset
+#Fashion Product Images Dataset
 
 Code Structure
 project_directory/
@@ -26,6 +26,7 @@ project_directory/
 └── kaggle.json
 
 #Future Work
+
 Multi-modal Recommendations: To Expand the system to include recommendations not just based on images but also on textual input, such as written descriptions of style preferences.
 
 Incorporate Natural Language Processing (NLP): Implement an NLP component to process user-written descriptions or comments about their style preferences. This could improve the recommendation accuracy and add an interactive element.
