@@ -10,12 +10,19 @@ The Fashion Recommender System is a web application designed to provide personal
 Make sure you have Python installed on your local machine. I give users the necessary information about the software requirement.
 
 General Purpose: General purpose packages like os, tqdm, pickle, PIL, zipfile
+
 Data Manipulation: Packages used for handling and importing dataset such as pandas, numpy
+
 Data Visualization: Include Packages like cv2, matplotlib
+
 Machine Learning: This includes packages that were used to generate the ML model such as tensorflow, sklearn
+
 Deployment: Package used to create web app streamlit
+
 Data Acquisition
+
 Here is the Kaggle dataset URL:- 
+
 https://www.kaggle.com/paramaggarwal/fashion-product-images-small
 
 #Fashion Product Images Dataset
